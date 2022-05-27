@@ -98,7 +98,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-name=my-name.sh
 echo "Welcome back, $(my-name.sh)"
 
 alias zettel-date="date +%Y-%m-%d_%k:%m:%S"
